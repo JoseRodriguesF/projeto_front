@@ -1,0 +1,17 @@
+#container{
+    margin: auto;
+    width: 400px;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+header{
+    width: 400px;
+    height: 360px;
+}
+
+#img_fundo{
+    width: 400px;
+    height: 360px;
+    margin-bottom: -340px;
+}
